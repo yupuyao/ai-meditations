@@ -209,15 +209,13 @@ Therefore, low-pass filtering can be explored as a heuristic experiment, but it 
 The DDPM sampling process can be summarized as
 
 $$
-\text{pure noise }x_T
-\rightarrow
-\text{coarse semantic selection}
-\rightarrow
-\text{structural formation}
-\rightarrow
-\text{detail refinement}
-\rightarrow
-\text{clean image }x_0.
+\begin{aligned}
+\text{pure noise } x_T
+&\rightarrow \text{coarse semantic selection} \\
+&\rightarrow \text{structural formation} \\
+&\rightarrow \text{detail refinement} \\
+&\rightarrow \text{clean image } x_0 .
+\end{aligned}
 $$
 
 More concretely:
@@ -280,4 +278,4 @@ Learning is easy; easy to learn is hard. The elegance of DDPM is that it reformu
 [12] Song, Y., Dhariwal, P., Chen, M., & Sutskever, I. "Consistency Models." ICML 2023.  
 [13] Rahaman, N., Baratin, A., Arpit, D., et al. "On the Spectral Bias of Neural Networks." ICML 2019.  
 [14] Goodfellow, I., Pouget-Abadie, J., Mirza, M., et al. "Generative Adversarial Networks." NeurIPS 2014.  
-[15] Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. "High-Resolution Image Synthesis with Latent Diffusion Models." CVPR 2022.  
+[15] Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. "High-Resolution Image Synthesis with Latent Diffusion Models." CVPR 2022.
