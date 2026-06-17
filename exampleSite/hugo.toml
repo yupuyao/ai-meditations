@@ -8,7 +8,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "AI Meditations"
 author = "Yupu Yao"
-copyright = "Copyright © 2026, Yupu Yao."
+copyright = "© 2026 Yupu Yao."
 locale = "en-US"
 
 # Generate a nice robots.txt for SEO
@@ -22,6 +22,8 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
+  browserTitle = "Yao's Blog"
+
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "AI Meditations by Yupu Yao"
 
