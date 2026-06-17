@@ -267,46 +267,17 @@ Learning is easy; easy to learn is hard. The elegance of DDPM is that it reformu
 ## References
 
 [1] Sohl-Dickstein, J., Weiss, E. A., Maheswaranathan, N., & Ganguli, S. "Deep Unsupervised Learning using Nonequilibrium Thermodynamics." ICML 2015.  
-PMLR: <https://proceedings.mlr.press/v37/sohl-dickstein15.html>  
-
 [2] Ho, J., Jain, A., & Abbeel, P. "Denoising Diffusion Probabilistic Models." NeurIPS 2020.  
-NeurIPS: <https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html>  
-
 [3] Song, Y., & Ermon, S. "Generative Modeling by Estimating Gradients of the Data Distribution." NeurIPS 2019.  
-NeurIPS: <https://papers.nips.cc/paper/9361-generative-modeling-by-estimating-gradients-of-the-data-distribution>  
-
 [4] Song, Y., Sohl-Dickstein, J., Kingma, D. P., Kumar, A., Ermon, S., & Poole, B. "Score-Based Generative Modeling through Stochastic Differential Equations." ICLR 2021.  
-OpenReview: <https://openreview.net/forum?id=PxTIG12RRHS>  
-
 [5] Song, J., Meng, C., & Ermon, S. "Denoising Diffusion Implicit Models." ICLR 2021.  
-OpenReview: <https://openreview.net/forum?id=St1giarCHLP>  
-
 [6] Nichol, A. Q., & Dhariwal, P. "Improved Denoising Diffusion Probabilistic Models." ICML 2021.  
-PMLR: <https://proceedings.mlr.press/v139/nichol21a.html>  
-
 [7] Dhariwal, P., & Nichol, A. "Diffusion Models Beat GANs on Image Synthesis." NeurIPS 2021.  
-OpenReview: <https://openreview.net/forum?id=AAWuCvzaVt>  
-
 [8] Ho, J., & Salimans, T. "Classifier-Free Diffusion Guidance." NeurIPS 2021 Workshop / arXiv 2022 version.  
-arXiv: <https://arxiv.org/abs/2207.12598>
-
-[9] Karras, T., Aittala, M., Aila, T., & Laine, S. "Elucidating the Design Space of Diffusion-Based Generative Models." NeurIPS 2022.  
-NeurIPS: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/a98846e9d9cc01cfb87eb694d946ce6b-Abstract-Conference.html>  
-
+[9] Karras, T., Aittala, M., Aila, T., & Laine, S. "Elucidating the Design Space of Diffusion-Based Generative Models." NeurIPS 2022.   
 [10] Lu, C., Zhou, Y., Bao, F., Chen, J., Li, C., & Zhu, J. "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps." NeurIPS 2022.  
-NeurIPS: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/260a14acce2a89dad36adc8eefe7c59e-Abstract-Conference.html>  
-
 [11] Salimans, T., & Ho, J. "Progressive Distillation for Fast Sampling of Diffusion Models." ICLR 2022.  
-OpenReview: <https://openreview.net/forum?id=TIdIXIpzhoI>  
-
 [12] Song, Y., Dhariwal, P., Chen, M., & Sutskever, I. "Consistency Models." ICML 2023.  
-PMLR: <https://proceedings.mlr.press/v202/song23a.html>  
-
 [13] Rahaman, N., Baratin, A., Arpit, D., et al. "On the Spectral Bias of Neural Networks." ICML 2019.  
-PMLR: <https://proceedings.mlr.press/v97/rahaman19a.html>  
-
 [14] Goodfellow, I., Pouget-Abadie, J., Mirza, M., et al. "Generative Adversarial Networks." NeurIPS 2014.  
-arXiv: <https://arxiv.org/abs/1406.2661>
-
 [15] Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. "High-Resolution Image Synthesis with Latent Diffusion Models." CVPR 2022.  
-CVF: <https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html>  
