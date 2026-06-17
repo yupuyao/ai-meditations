@@ -9,7 +9,7 @@ theme = 'hugo-bearblog'
 title = "AI Meditations"
 author = "Yupu Yao"
 copyright = "Copyright © 2026, Yupu Yao."
-languageCode = "en-US"
+locale = "en-US"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
