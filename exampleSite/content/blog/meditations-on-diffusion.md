@@ -1,5 +1,5 @@
 +++
-title = "Diffusion Is Not Merely Denoising"
+title = "Meditations On Diffusion"
 date = "2026-05-08"
 +++
 
